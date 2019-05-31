@@ -65,4 +65,4 @@ def update_post(id):
         return render_template('update_post.html', post=post)
 
 
-app.run()
+
